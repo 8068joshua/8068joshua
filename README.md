@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @8068joshua
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning C language
+- 🌱 I’m currently in Mobile Transmission Lab
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : Mail me on 8068joshua@naver.com !
 
